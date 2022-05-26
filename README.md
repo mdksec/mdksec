@@ -8,7 +8,7 @@ All information on my website
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [my portfolio](http://mdksec.cf)
-* ✉️  You can contact me at [denizkalma27@gmail.com](mailto:denizkalma27@gmail.com)
+* ✉️  You can contact me at [mdksec@proton.me](mailto:mdksec@proton.me)
 * 🧠  I'm learning devoloping and hacking
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  I care about privacy
